@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<h1>Welcome To Your Website!</h1>
+
+<p>Hello and welcome to my very first website!. Here you will learn a little more about me and explore more
+of the projects I've worked on as well as topics that intrest me.</p>
+
+<figure>
+  <img src="assets/images/red-panda-small.jpg"
+  alt="Picture of me" 
+/>
+  <figcaption>A friendly face to the writer &#128512;</figcaption>
+</figure>
+
+<h2><u>About Me<u></h2>
+<p>Let me introduce my self, my name is Daniela I am an Electrical Engineer studying in the 
+University of Texas at San Antonio (go roadrunners!). Some of my intrests and hobbies include running, I love morning runs, hikes, walks, etc. it's a very nice way to start your day off expecially if there are 
+beautiful nature scenary around you. Other things that I enjoy doing are gamming - my favorite being final fantasy 7- , reading and baking. All these activities bring me a sort of inner peace.</p>
+
+<p><u>More about this website:<u></p>
+
+<ul>
+<li>Explore the 
+</ul>
+
+<p>You can put professional highlights, a summary/bio, and/or links to other parts of your website such as your 
+  <a href="/projects">projects</a> or your <a href="blog">devblog</a> here.</p>
+
+<p>
+  To learn more about the website:
+</p>
+
+<ul>
+  <li>Visit the <a href="/about">about page</a></li>
+  <li>Explore the <a href="https://github.com/alexander-ye/jekyll-devblog-starter">GitHub repository</a> (read the readme!)</li>
+  <li>Click around this website!</li>
+</ul>
+
+<p>Two ways you can publish the site for free:</p>
+
+<ul>
+  <li><a href="https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/">Deploy on Netlify</a> (I recommend this)</li>
+  <li><a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll">Deploy with GitHub Pages</a> (you need to worry about <a href="https://pages.github.com/versions/">version compatibility</a> in your <code>Gemfile</code> with this approach)</li>
+</ul>
