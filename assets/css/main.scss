@@ -5,5 +5,5 @@
 // jekyll requires us to start our sass files with ---\n----
 @import "styles";
 @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
